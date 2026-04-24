@@ -1,17 +1,17 @@
 body {
     text-align: center;
-    background-color: #ffe6f0;
+    background-color: #a7d5eb;
     font-family: "Araal", sans-serif;
 }
 
 h1{
-    color: #e91e63
+    color: #ddf317
 }
 
 button{
     padding: 10px;
     font-size: 18px;
-    background-color: #e91e63;
+    background-color: #83e092;
     color: #ffffff;
     border: none;
     border-radius: 5px;
@@ -19,7 +19,7 @@ button{
 }
 
 button:hover {
-    background-color: #c2185b;
+    background-color: #f070f0;
 }
 
 .result{
